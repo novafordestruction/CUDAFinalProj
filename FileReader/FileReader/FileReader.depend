@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447436521 source:d:\dev\cosc480lab\filereader\filereader\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
